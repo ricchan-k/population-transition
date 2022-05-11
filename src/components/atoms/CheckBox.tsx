@@ -30,6 +30,7 @@ export const CheckBox: FC<Props> = (props) => {
               onChangeCheckBox(checkPopulationData);
             }}
           />
+          &nbsp;
           {label}
         </label>
       </div>
